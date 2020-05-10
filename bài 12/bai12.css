@@ -1,0 +1,20 @@
+fieldset{
+	    width: 300px;
+	    
+	}
+	h2{
+	    text-align: center;
+	}
+	label{
+	    margin-left: 3px;  
+	}
+	input{
+	    margin: 3px;
+	}
+	#bt{
+	    margin-left: 38px;
+	}
+	button{
+	    margin-top: 5px;
+	    margin-left: 50px;    
+	}

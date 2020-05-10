@@ -1,0 +1,28 @@
+h1{
+	    text-align: center;
+	    color: #006600;
+	}
+	#heading1{
+	    color: #0000FF;
+	}
+	#heading2{
+	    text-align: center;
+	    color: #FF3399;
+	    background-color: #FECFFD;
+	}
+	div{
+	    text-align: center;
+	    background-color: #FECFFD;
+	}
+	#paragrap1{
+	    text-color: #0000FF;
+	}
+	#paragrap2{
+	    color: #FF3399;
+	}
+	#paragrap3{
+	    color: #006600;
+	}
+	hr{
+	    width: 20%;
+	}

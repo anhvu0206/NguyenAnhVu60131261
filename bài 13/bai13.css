@@ -1,0 +1,10 @@
+fieldset{
+	    border: double 6px;
+	    width: 40%;
+	}
+	h2{
+	    text-align: center;
+	}
+	#button{
+	    margin-left: 40px;
+	}

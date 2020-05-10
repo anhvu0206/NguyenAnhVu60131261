@@ -1,0 +1,21 @@
+div{
+	    border: solid 1px black;
+	}
+	table{
+	    border: solid 1px black;
+	    border-collapse: collapse;
+	    text-align: center;
+	    width: 600px;
+	}
+	td{
+	    border: solid 1px black;
+	}
+	th{    
+	    border: solid 1px black;
+	}
+	#name{
+	    text-align: left;
+	}
+	#tomau{
+	    background-color: chartreuse;
+	}
